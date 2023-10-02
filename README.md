@@ -41,6 +41,20 @@ The GenAI Summer Camp Assistant is a Python-based conversational agent that fetc
     - Or, it collects application details. If the child's age is within range, details are stored; otherwise, a message is displayed.
 4. The interaction concludes, but the script can be easily rerun for additional queries or sign-ups.
 
+### Pre-requisites:
+ Python: Ensure you have Python installed.
+   
+### Steps to Run the Solution:
+
+1. Save the code provided earlier into a file, named it genai_camp_assistant.py.
+2. Open a terminal or command prompt.
+3. Navigate to the directory where you saved the genai_camp_assistant.py file.
+### Run the following command: 
+ python genai_camp_assistant.py
+ - The script will greet you and ask if you want to ask a question about the camp or sign your kid up.
+ - You can type in a response like "I want to ask a question" or "I want to sign up my child". 
+ - Depending on your response, the assistant will either answer your question using the details it generated about the camp, or guide you through the application process.
+
 ---
 
 You can include this documentation with the code to help any other developer or user understand the approach and how the code functions.
